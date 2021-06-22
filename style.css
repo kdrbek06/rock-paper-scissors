@@ -1,0 +1,25 @@
+.container {
+  text-align: center;
+  border: 1px solid blue;
+}
+
+button {
+  width: 140px;
+  height: 75px;
+  margin: 10px;
+  font-size: 2.5em;
+  border-radius: 20px;
+}
+
+#scoreBox {
+  font-size: 10px;
+}
+
+#gameButtons button:hover {
+  background-color: orange;
+}
+
+#gameButtons button:focus {
+  background-color: red;
+}
+/*# sourceMappingURL=style.css.map */
